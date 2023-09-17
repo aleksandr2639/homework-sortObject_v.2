@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/h7tp0whl3bqip3th?svg=true)](https://ci.appveyor.com/project/aleksandr2639/homework-sortobject-v-2)
